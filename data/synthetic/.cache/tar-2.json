@@ -1,0 +1,106 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "The call included Priya Menon (CFO), Rahul (AE), Aditya Reddy (VP Engineering) and Sneha (SE). Priya expressed concern that the ₹45 L proposal is steep and cited a budget ceiling of ₹38 L, while also demanding security documentation for Kavya. Rahul promised to look at pricing and to send SOC2 and RBI data‑localisation notes by September 9. The next steps are to provide the security docs, reconvene after review, and schedule the next meeting on September 30.",
+  "objections": [
+    {
+      "text": "Forty-five lakh a year is steep. My ceiling this financial year is around thirty-eight. Anything above that needs board approval, and I won't take it to the board for a monitoring tool.",
+      "category": "price",
+      "raised_by": "Priya Menon (CFO)",
+      "severity": "high",
+      "resolved": false,
+      "how_handled": "Rahul said he'll see what he can do on price."
+    },
+    {
+      "text": "Kavya won't let anyone near transaction data without a security review. She needs your SOC2 and an RBI data‑localisation note.",
+      "category": "security",
+      "raised_by": "Priya Menon (CFO)",
+      "severity": "medium",
+      "resolved": false,
+      "how_handled": "Rahul committed to send SOC2 and RBI note by 9th Sep."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Stratify",
+      "context": "quoted thirty-two lakh for similar solution",
+      "their_claimed_price": "32"
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "Priya Menon",
+      "role": "CFO",
+      "stance": "skeptic",
+      "concerns": [
+        "price above ceiling",
+        "board approval needed",
+        "security review"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Aditya Reddy",
+      "role": "VP Engineering",
+      "stance": "supporter",
+      "concerns": [
+        "December RBI audit driver"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Kavya Srinivasan",
+      "role": "CISO",
+      "stance": "blocker",
+      "concerns": [
+        "needs SOC2 report",
+        "needs RBI data‑localisation note"
+      ],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [
+    {
+      "amount": 4500000.0,
+      "currency": "INR",
+      "stated_by": "us",
+      "note": "our proposal price"
+    },
+    {
+      "amount": 3800000.0,
+      "currency": "INR",
+      "stated_by": "them",
+      "note": "budget ceiling"
+    },
+    {
+      "amount": 3200000.0,
+      "currency": "INR",
+      "stated_by": "them",
+      "note": "Stratify quote"
+    }
+  ],
+  "commitments": [
+    {
+      "owner": "us",
+      "who": "Rahul",
+      "what": "Send SOC2 report and RBI data‑localisation note to Kavya",
+      "due_date": "2026-09-09"
+    }
+  ],
+  "next_steps": [
+    "Send SOC2 report and RBI data‑localisation note to Kavya by 2026-09-09",
+    "Reconvene after security review",
+    "Schedule next meeting on 2026-09-30"
+  ],
+  "buying_signals": [
+    "Wants confidence that tool reduces month‑end breaks",
+    "Interested in live reconciliation monitors within a week"
+  ],
+  "risk_signals": [
+    "Price exceeds CFO's ceiling of ₹38 L",
+    "Requires board approval if above ceiling",
+    "Security review needed before proceeding"
+  ],
+  "sentiment": "mixed",
+  "confidence": "medium"
+}

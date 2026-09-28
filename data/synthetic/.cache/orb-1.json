@@ -1,0 +1,52 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "The call on 2026-05-05 included Rohan Mehta (Head of Data) and Rahul (AE). Rohan highlighted SLA penalties of about ₹4 lakh due to stale GPS feeds and the need for faster detection. Rahul positioned Northwind’s ability to detect freshness drops within minutes and asked to involve CTO Karthik. Rohan mentioned they are also evaluating LensIQ, which Karthik favors for its enterprise‑grade offering but has a three‑month onboarding. The conversation identified scale and reliability as key concerns and set up a follow‑up with the CTO.",
+  "objections": [],
+  "competitors": [
+    {
+      "name": "LensIQ",
+      "context": "mentioned as a competitor they are evaluating; Karthik likes them for being enterprise‑grade but onboarding takes three months",
+      "their_claimed_price": null
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "Rohan Mehta",
+      "role": "Head of Data",
+      "stance": "champion",
+      "concerns": [
+        "stale feed detection latency",
+        "SLA penalties",
+        "scale"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Karthik Subramanian",
+      "role": "CTO",
+      "stance": "skeptic",
+      "concerns": [
+        "scale",
+        "vendor reliability"
+      ],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [],
+  "commitments": [],
+  "next_steps": [
+    "Schedule meeting with CTO Karthik Subramanian"
+  ],
+  "buying_signals": [
+    "SLA penalties of ₹4 lakh indicate cost of current issues",
+    "Need for minute‑level freshness detection",
+    "Handling 2 billion events per day shows high scale requirement"
+  ],
+  "risk_signals": [
+    "Evaluating LensIQ with three‑month onboarding may delay decision",
+    "Concern that a smaller vendor could fail at scale"
+  ],
+  "sentiment": "neutral",
+  "confidence": "medium"
+}

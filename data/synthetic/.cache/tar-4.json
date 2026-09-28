@@ -1,0 +1,75 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "The technical deep‑dive call on 16 Sep 2026 included Sneha (SE), Aditya Reddy (VP Engineering), Kavya Srinivasan (CISO) and Rahul (AE). Aditya confirmed the solution meets their July requirement, while Kavya raised security compliance needs for SOC 2 Type II and data residency within India. Rahul promised to send the SOC 2 documentation immediately after the call. The team also discussed pricing pressure, with Aditya noting Priya’s request to match Stratify’s price, indicating a potential hurdle before the next meeting on 30 Sep 2026.",
+  "objections": [
+    {
+      "text": "I need SOC2 Type II specifically — Type I won't pass our committee — and confirmation that nothing leaves India.",
+      "category": "security",
+      "raised_by": "Kavya Srinivasan (CISO)",
+      "severity": "high",
+      "resolved": false,
+      "how_handled": "Rahul apologized and promised to send the SOC2 documents right after the call."
+    },
+    {
+      "text": "Priya asked whether you can match Stratify.",
+      "category": "price",
+      "raised_by": "Aditya Reddy (VP Engineering)",
+      "severity": "medium",
+      "resolved": false,
+      "how_handled": null
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Stratify",
+      "context": "Priya asked about matching Stratify pricing",
+      "their_claimed_price": null
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "Aditya Reddy",
+      "role": "VP Engineering",
+      "stance": "champion",
+      "concerns": [
+        "Pricing match with Stratify"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Kavya Srinivasan",
+      "role": "CISO",
+      "stance": "blocker",
+      "concerns": [
+        "SOC2 Type II compliance",
+        "Data residency – no data leaving India"
+      ],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [],
+  "commitments": [
+    {
+      "owner": "us",
+      "who": "Rahul",
+      "what": "Send SOC2 Type II report to Kavya",
+      "due_date": "2026-09-16"
+    }
+  ],
+  "next_steps": [
+    "Send SOC2 Type II report to Kavya (by 2026-09-16)",
+    "Provide confirmation that data never leaves India",
+    "Schedule next call on 30 Sep 2026 with Imran Qureshi (Procurement Lead)"
+  ],
+  "buying_signals": [
+    "Aditya said the solution is exactly what they needed in July"
+  ],
+  "risk_signals": [
+    "Need for SOC2 Type II compliance",
+    "Data residency requirement",
+    "Pricing pressure to match Stratify"
+  ],
+  "sentiment": "mixed",
+  "confidence": "medium"
+}

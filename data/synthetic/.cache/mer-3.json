@@ -1,0 +1,50 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "On 26 March 2026, CISO Farhan Sheikh emailed Rahul Verma indicating that the promised SOC2 Type II report had not been received. He stated that without the report he cannot start the vendor risk assessment and that the internal committee meets on 9 April. He also requested data residency details, emphasizing that settlement data must remain in India. The deal is stalled pending delivery of the security documentation.",
+  "objections": [
+    {
+      "text": "I haven't received the SOC2 Type II report yet; cannot start vendor risk assessment; need data residency details; settlement data cannot leave India",
+      "category": "security",
+      "raised_by": "Farhan Sheikh (CISO)",
+      "severity": "high",
+      "resolved": false,
+      "how_handled": null
+    }
+  ],
+  "competitors": [],
+  "stakeholders": [
+    {
+      "name": "Farhan Sheikh",
+      "role": "CISO",
+      "stance": "blocker",
+      "concerns": [
+        "Missing SOC2 Type II report",
+        "Data residency requirements"
+      ],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [],
+  "commitments": [
+    {
+      "owner": "us",
+      "who": "Rahul Verma",
+      "what": "Send SOC2 Type II report",
+      "due_date": "2026-03-24"
+    }
+  ],
+  "next_steps": [
+    "Send SOC2 Type II report to Farhan Sheikh",
+    "Provide data residency details for settlement data"
+  ],
+  "buying_signals": [
+    "Committee meeting scheduled for 9 April indicates timeline for decision"
+  ],
+  "risk_signals": [
+    "SOC2 report not provided, delaying risk assessment",
+    "Data residency constraints may affect fit"
+  ],
+  "sentiment": "negative",
+  "confidence": "medium"
+}

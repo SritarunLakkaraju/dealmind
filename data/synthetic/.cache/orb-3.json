@@ -1,0 +1,53 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "The POC readout call on 2026-06-10 included Sneha (SE), Rohan Mehta (Head of Data) and Karthik Subramanian (CTO). The POC demonstrated quick detection of freshness incidents and the team fixed SLA‑threatening issues, which the CTO found convincing, especially after a reference call. The CTO expressed comfort with Northwind and indicated the next step is to discuss commercial terms with CFO Lakshmi Menon. LensIQ was noted as still pending its architecture review, indicating a competitor still in the picture.",
+  "objections": [],
+  "competitors": [
+    {
+      "name": "LensIQ",
+      "context": "mentioned by CTO as still hasn't finished their architecture review, implying they are a competing solution",
+      "their_claimed_price": null
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "Karthik Subramanian",
+      "role": "CTO",
+      "stance": "champion",
+      "concerns": [],
+      "new_to_deal": false
+    },
+    {
+      "name": "Rohan Mehta",
+      "role": "Head of Data",
+      "stance": "supporter",
+      "concerns": [],
+      "new_to_deal": false
+    },
+    {
+      "name": "Lakshmi Menon",
+      "role": "CFO",
+      "stance": "neutral",
+      "concerns": [],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [],
+  "commitments": [],
+  "next_steps": [
+    "Discuss commercial terms with CFO Lakshmi Menon"
+  ],
+  "buying_signals": [
+    "POC showed rapid incident detection (median 4 min)",
+    "All SLA‑threatening incidents fixed before breach",
+    "Reference call with marketplace team demonstrated scalability",
+    "CTO expressed comfort with solution"
+  ],
+  "risk_signals": [
+    "LensIQ architecture review not completed, could re‑enter competition",
+    "Need CFO approval for commercial terms"
+  ],
+  "sentiment": "positive",
+  "confidence": "medium"
+}

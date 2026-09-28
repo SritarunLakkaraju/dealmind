@@ -1,0 +1,58 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "The call included Arjun Nair (VP Engineering) and Rahul (AE). Arjun described recent overpayment incidents and compliance concerns, and mentioned a cheaper quote from Stratify. Rahul proposed building a cost model and asked for the incident timeline. Arjun committed to sending the timeline the next day, after which Rahul will develop the cost model before the CFO decides on numbers.",
+  "objections": [],
+  "competitors": [
+    {
+      "name": "Stratify",
+      "context": "Prospect mentioned they received a cheaper quote from Stratify",
+      "their_claimed_price": null
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "Arjun Nair",
+      "role": "VP Engineering",
+      "stance": "champion",
+      "concerns": [
+        "schema change detection",
+        "compliance DPDP",
+        "overpayments"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Neha Kapoor",
+      "role": "CFO",
+      "stance": "neutral",
+      "concerns": [
+        "pricing"
+      ],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [],
+  "commitments": [
+    {
+      "owner": "them",
+      "who": "Arjun Nair",
+      "what": "Send incident timeline",
+      "due_date": "2026-04-09"
+    }
+  ],
+  "next_steps": [
+    "Rahul to build cost model before meeting CFO",
+    "Await incident timeline from Arjun"
+  ],
+  "buying_signals": [
+    "Interest in lineage and schema‑change detection",
+    "Desire for cost model to justify investment"
+  ],
+  "risk_signals": [
+    "Potential price competition from Stratify",
+    "Final decision rests with CFO"
+  ],
+  "sentiment": "positive",
+  "confidence": "medium"
+}

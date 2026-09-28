@@ -1,0 +1,71 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "The call on 2026-07-15 included CFO Lakshmi Menon, CTO Karthik Subramanian and AE Rahul. Lakshmi confirmed the order form is approved with quarterly billing starting July, and Rahul announced that Sneha will begin the production rollout on Monday. Karthik noted they have informed competitor LensIQ, emphasizing our two‑week POC versus their three‑month onboarding as a key advantage. The deal is moving forward with billing and rollout scheduled, with no major objections raised.",
+  "objections": [],
+  "competitors": [
+    {
+      "name": "LensIQ",
+      "context": "mentioned by CTO as having a three-month onboarding that was a deal-breaker compared to our two-week POC",
+      "their_claimed_price": null
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "Lakshmi Menon",
+      "role": "CFO",
+      "stance": "champion",
+      "concerns": [],
+      "new_to_deal": false
+    },
+    {
+      "name": "Karthik Subramanian",
+      "role": "CTO",
+      "stance": "champion",
+      "concerns": [],
+      "new_to_deal": false
+    },
+    {
+      "name": "Rohan Mehta",
+      "role": "Head of Data",
+      "stance": "neutral",
+      "concerns": [],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [
+    {
+      "amount": 3600000.0,
+      "currency": "INR",
+      "stated_by": "them",
+      "note": "ARR as approved order form"
+    }
+  ],
+  "commitments": [
+    {
+      "owner": "us",
+      "who": "Sneha",
+      "what": "run production rollout",
+      "due_date": "2026-07-20"
+    },
+    {
+      "owner": "them",
+      "who": "Lakshmi Menon",
+      "what": "order form approved, quarterly billing from July",
+      "due_date": null
+    }
+  ],
+  "next_steps": [
+    "Sneha to start production rollout on 2026-07-20"
+  ],
+  "buying_signals": [
+    "Order form approved",
+    "Quarterly billing set",
+    "Two-week POC highlighted as advantage over LensIQ"
+  ],
+  "risk_signals": [
+    "Competitor LensIQ mentioned"
+  ],
+  "sentiment": "positive",
+  "confidence": "medium"
+}

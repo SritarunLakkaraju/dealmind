@@ -1,0 +1,56 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "On 2026-04-14 Rahul Verma from Northwind emailed Farhan Sheikh (CISO) sending the SOC2 Type II report and a data residency note after a delay. Farhan thanked him and said the internal committee met on the 9th without the report, so the security review will move to the May decision cycle. He also mentioned that CFO Vikram Desai has been informed. The deal now awaits the May cycle decision.",
+  "objections": [
+    {
+      "text": "Our committee met on the 9th without it, so this goes to the May cycle.",
+      "category": "timing",
+      "raised_by": "Farhan Sheikh (CISO)",
+      "severity": "medium",
+      "resolved": false,
+      "how_handled": "Provided the SOC2 report and data residency note as requested"
+    }
+  ],
+  "competitors": [],
+  "stakeholders": [
+    {
+      "name": "Farhan Sheikh",
+      "role": "CISO",
+      "stance": "supporter",
+      "concerns": [
+        "Needs SOC2 report for security review"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Vikram Desai",
+      "role": "CFO",
+      "stance": "neutral",
+      "concerns": [
+        "Decision timing"
+      ],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [],
+  "commitments": [
+    {
+      "owner": "us",
+      "who": "Rahul Verma",
+      "what": "Sent SOC2 Type II report and data residency note",
+      "due_date": "2026-04-14"
+    }
+  ],
+  "next_steps": [
+    "Follow up after May decision cycle"
+  ],
+  "buying_signals": [
+    "CISO acknowledged receipt of security documentation"
+  ],
+  "risk_signals": [
+    "Decision delayed to May cycle"
+  ],
+  "sentiment": "mixed",
+  "confidence": "medium"
+}

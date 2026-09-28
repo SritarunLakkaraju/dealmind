@@ -1,0 +1,55 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "Rahul (AE) and Sameer Joshi (Procurement Manager) held a procurement negotiation call on 2026-06-24. Sameer requested a 15% discount and net‑60 terms, which Rahul countered with a 5% discount for a two‑year commitment plus a joint case study. Sameer accepted the 5% discount, the two‑year term, and net‑45 payment terms, agreeing to send the contract paper and sign the agreement within the week.",
+  "objections": [
+    {
+      "text": "Standard ask — fifteen percent off, and net-60 payment terms.",
+      "category": "price",
+      "raised_by": "Sameer Joshi (Procurement Manager)",
+      "severity": "medium",
+      "resolved": true,
+      "how_handled": "Offered 5% discount for two-year commitment and case study, which was accepted"
+    }
+  ],
+  "competitors": [],
+  "stakeholders": [
+    {
+      "name": "Sameer Joshi",
+      "role": "Procurement Manager",
+      "stance": "supporter",
+      "concerns": [
+        "discount level",
+        "payment terms"
+      ],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [],
+  "commitments": [
+    {
+      "owner": "us",
+      "who": "Rahul (AE)",
+      "what": "Send the contract paper",
+      "due_date": null
+    },
+    {
+      "owner": "them",
+      "who": "Sameer Joshi (Procurement)",
+      "what": "Sign the agreement",
+      "due_date": null
+    }
+  ],
+  "next_steps": [
+    "Send the contract paper",
+    "Sign the agreement this week"
+  ],
+  "buying_signals": [
+    "Agreed to two-year contract",
+    "Willing to do joint case study",
+    "Accepted net-45 payment terms"
+  ],
+  "risk_signals": [],
+  "sentiment": "positive",
+  "confidence": "medium"
+}

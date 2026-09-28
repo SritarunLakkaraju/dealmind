@@ -1,0 +1,116 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "The negotiation call on 2026-04-07 involved CFO Vikram Desai, Head of Procurement Meera Kulkarni, and Northwind AE Rahul. Meera referenced our revised quote of 33.6 lakh and noted Stratify’s lower 29 lakh offer with a two‑year lock. Vikram questioned the shifting price and value, while Meera raised a security‑review blocker. Rahul offered a firm 30 lakh price, apologized for the missing SOC2 report and promised to send the quote and security documents, with a decision expected by month‑end.",
+  "objections": [
+    {
+      "text": "The number keeps moving, which makes me wonder what we're actually paying for.",
+      "category": "price",
+      "raised_by": "Vikram Desai (CFO)",
+      "severity": "medium",
+      "resolved": false,
+      "how_handled": "Rahul explained the value is reduction in incidents"
+    },
+    {
+      "text": "Also, Farhan tells me security review hasn't started on your side. Is there a blocker?",
+      "category": "security",
+      "raised_by": "Meera Kulkarni (Head of Procurement)",
+      "severity": "medium",
+      "resolved": false,
+      "how_handled": "Rahul apologized and said he will chase the SOC2 report today"
+    },
+    {
+      "text": "Stratify says they do the same thing.",
+      "category": "competitor",
+      "raised_by": "Vikram Desai (CFO)",
+      "severity": "low",
+      "resolved": false,
+      "how_handled": "Rahul highlighted the unique value of incident reduction"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Stratify",
+      "context": "Mentioned as offering a lower price (29 lakh) and claiming similar functionality",
+      "their_claimed_price": "29"
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "Vikram Desai",
+      "role": "CFO",
+      "stance": "champion",
+      "concerns": [
+        "price moving",
+        "competitor claims similar functionality"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Meera Kulkarni",
+      "role": "Head of Procurement",
+      "stance": "champion",
+      "concerns": [
+        "missing SOC2 security documents"
+      ],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [
+    {
+      "amount": 3360000.0,
+      "currency": "INR",
+      "stated_by": "them",
+      "note": "revised quote referenced by prospect"
+    },
+    {
+      "amount": 3000000.0,
+      "currency": "INR",
+      "stated_by": "us",
+      "note": "discount we offered"
+    },
+    {
+      "amount": 2900000.0,
+      "currency": "INR",
+      "stated_by": "them",
+      "note": "competitor price"
+    }
+  ],
+  "commitments": [
+    {
+      "owner": "us",
+      "who": "Rahul",
+      "what": "Send SOC2 report",
+      "due_date": "2026-04-07"
+    },
+    {
+      "owner": "us",
+      "who": "Rahul",
+      "what": "Send thirty‑lakh quote and security documents",
+      "due_date": "2026-04-07"
+    },
+    {
+      "owner": "them",
+      "who": "Meridian Payments",
+      "what": "Decision on purchase by end of month",
+      "due_date": "2026-04-30"
+    }
+  ],
+  "next_steps": [
+    "Rahul to email the 30 lakh quote",
+    "Rahul to send SOC2 compliance report",
+    "Meridian to review and decide by 30 April"
+  ],
+  "buying_signals": [
+    "Willingness to accept 30 lakh flat price",
+    "Requested formal quote and security docs",
+    "Decision timeline set for month‑end"
+  ],
+  "risk_signals": [
+    "Price justification concerns",
+    "Security review not started",
+    "Competitor Stratify offering similar solution at lower price"
+  ],
+  "sentiment": "mixed",
+  "confidence": "medium"
+}

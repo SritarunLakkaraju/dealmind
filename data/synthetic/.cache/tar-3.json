@@ -1,0 +1,56 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "On 10 Sep 2026, Kavya Srinivasan, CISO of Tarang Payments, emailed Rahul Verma requesting the SOC2 report and RBI data‑localisation note that were promised by 9 Sep. She noted the vendor risk committee meeting on 25 Sep and said she needs at least a week to review the documents. The requested security documents have not yet been received, creating a delay in the evaluation process.",
+  "objections": [
+    {
+      "text": "I haven't received the SOC2 report and the RBI data‑localisation note.",
+      "category": "security",
+      "raised_by": "Kavya Srinivasan (CISO)",
+      "severity": "medium",
+      "resolved": false,
+      "how_handled": null
+    }
+  ],
+  "competitors": [],
+  "stakeholders": [
+    {
+      "name": "Kavya Srinivasan",
+      "role": "CISO",
+      "stance": "blocker",
+      "concerns": [
+        "Missing SOC2 report",
+        "Missing RBI data‑localisation note",
+        "Need at least a week to review before vendor risk committee"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Priya Menon",
+      "role": "CFO",
+      "stance": "neutral",
+      "concerns": [],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [],
+  "commitments": [
+    {
+      "owner": "us",
+      "who": "Rahul Verma",
+      "what": "Send SOC2 report and RBI data‑localisation note",
+      "due_date": "2026-09-09"
+    }
+  ],
+  "next_steps": [
+    "Send SOC2 report and RBI data‑localisation note to Kavya"
+  ],
+  "buying_signals": [
+    "Vendor risk committee scheduled for 25 Sep, indicating evaluation moving forward"
+  ],
+  "risk_signals": [
+    "Missing security documents may delay approval"
+  ],
+  "sentiment": "neutral",
+  "confidence": "medium"
+}

@@ -1,0 +1,102 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "The call included Neha Kapoor (CFO), Rahul (AE), Arjun Nair (VP Engineering) and referenced David Thomas (CISO). Neha compared Stratify’s price (₹34 L) to Northwind’s (₹48 L) and asked for justification beyond features. Rahul responded with incident cost data and proposed a 90‑day paid pilot costing ₹9 L, fully credited if continued, and agreed to send a TCO model, pilot terms, SOC 2 Type II report and DPDP data‑flow mapping. The conversation moved forward on the pilot and security documentation, while price justification and security clearance remain points of concern.",
+  "objections": [
+    {
+      "text": "I need a reason that isn't a feature list. Expect is the word I don't like.",
+      "category": "other",
+      "raised_by": "Neha Kapoor (CFO)",
+      "severity": "medium",
+      "resolved": true,
+      "how_handled": "offered 90‑day paid pilot and TCO model to address price justification"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Stratify",
+      "context": "CFO compared our price to Stratify’s and asked about their pilot offering",
+      "their_claimed_price": "3400000"
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "Neha Kapoor",
+      "role": "CFO",
+      "stance": "champion",
+      "concerns": [
+        "price justification",
+        "expectation of results",
+        "security clearance"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Arjun Nair",
+      "role": "VP Engineering",
+      "stance": "supporter",
+      "concerns": [
+        "incident cost data"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "David Thomas",
+      "role": "CISO",
+      "stance": "neutral",
+      "concerns": [
+        "security clearance"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Sameer Joshi",
+      "role": "Procurement Manager",
+      "stance": "neutral",
+      "concerns": [],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [
+    {
+      "amount": 4800000.0,
+      "currency": "INR",
+      "stated_by": "them",
+      "note": "our list price as quoted by prospect"
+    },
+    {
+      "amount": 3400000.0,
+      "currency": "INR",
+      "stated_by": "them",
+      "note": "Stratify price"
+    },
+    {
+      "amount": 900000.0,
+      "currency": "INR",
+      "stated_by": "us",
+      "note": "90‑day pilot cost, credited to annual contract if continued"
+    }
+  ],
+  "commitments": [
+    {
+      "owner": "us",
+      "who": "Rahul",
+      "what": "Send SOC2 Type II report and DPDP data‑flow mapping to David Thomas",
+      "due_date": "2026-04-23"
+    }
+  ],
+  "next_steps": [
+    "Send SOC2 Type II report and DPDP data‑flow mapping to David Thomas by 2026-04-23",
+    "Send TCO model and pilot terms to Neha Kapoor"
+  ],
+  "buying_signals": [
+    "CFO expressed interest in a pilot rather than a discount",
+    "Willingness to review TCO model"
+  ],
+  "risk_signals": [
+    "Need for security clearance from CISO",
+    "Price gap with competitor Stratify"
+  ],
+  "sentiment": "mixed",
+  "confidence": "medium"
+}

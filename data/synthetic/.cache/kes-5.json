@@ -1,0 +1,49 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "The pilot readout call on 2026-06-03 included Sneha (SE), Arjun Nair (VP Engineering), Neha Kapoor (CFO) and David Thomas (CISO). The pilot flagged 14 anomalies, with two upstream schema changes fixed before payout, saving an estimated five to six lakh. The CFO confirmed the pilot paid for itself and expressed readiness to move to a contract. Procurement (Sameer Joshi) will now negotiate the contract terms.",
+  "objections": [],
+  "competitors": [],
+  "stakeholders": [
+    {
+      "name": "Neha Kapoor",
+      "role": "CFO",
+      "stance": "champion",
+      "concerns": [],
+      "new_to_deal": false
+    },
+    {
+      "name": "Arjun Nair",
+      "role": "VP Engineering",
+      "stance": "supporter",
+      "concerns": [],
+      "new_to_deal": false
+    },
+    {
+      "name": "David Thomas",
+      "role": "CISO",
+      "stance": "supporter",
+      "concerns": [],
+      "new_to_deal": false
+    },
+    {
+      "name": "Sameer Joshi",
+      "role": "Procurement Manager",
+      "stance": "neutral",
+      "concerns": [],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [],
+  "commitments": [],
+  "next_steps": [
+    "Procurement to negotiate contract terms"
+  ],
+  "buying_signals": [
+    "Pilot ROI demonstrated",
+    "CFO ready to move to contract"
+  ],
+  "risk_signals": [],
+  "sentiment": "positive",
+  "confidence": "medium"
+}

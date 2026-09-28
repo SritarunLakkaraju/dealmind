@@ -1,0 +1,66 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "Rahul (AE) and Anjali Rao (VP Engineering) discussed recent reconciliation pipeline incidents that caused settlement mismatches for merchants. Anjali explained their current monitoring using dbt tests and a Grafana board, and mentioned they are also evaluating Stratify. She indicated the CFO, Vikram, needs to see numbers before approving spend, creating a price objection. Rahul asked to arrange a 30‑minute meeting with the CFO in the next two weeks to present pricing and involve a Solutions Engineer. Anjali agreed to set up the meeting.",
+  "objections": [
+    {
+      "text": "CFO not sold on the spend.",
+      "category": "price",
+      "raised_by": "Anjali Rao (VP Engineering)",
+      "severity": "medium",
+      "resolved": false,
+      "how_handled": "Rahul proposed a meeting with the CFO and to bring pricing"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Stratify",
+      "context": "being evaluated; they came in through our AWS rep",
+      "their_claimed_price": null
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "Anjali Rao",
+      "role": "VP Engineering",
+      "stance": "champion",
+      "concerns": [
+        "budget approval",
+        "spend justification"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Vikram Desai",
+      "role": "CFO",
+      "stance": "neutral",
+      "concerns": [
+        "budget approval"
+      ],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [],
+  "commitments": [
+    {
+      "owner": "them",
+      "who": "Anjali Rao",
+      "what": "Set up a 30‑minute meeting with CFO Vikram Desai",
+      "due_date": "2026-03-17"
+    }
+  ],
+  "next_steps": [
+    "Anjali to schedule 30‑minute meeting with CFO Vikram within two weeks",
+    "Rahul to prepare pricing and include Solutions Engineer for the meeting"
+  ],
+  "buying_signals": [
+    "VP Engineering acknowledges critical reconciliation issues",
+    "Interest in a solution that detects pipeline anomalies before downstream impact"
+  ],
+  "risk_signals": [
+    "CFO not convinced on spend (price objection)",
+    "CFO prefers short decks, risk of presentation length"
+  ],
+  "sentiment": "mixed",
+  "confidence": "medium"
+}

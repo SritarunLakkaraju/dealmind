@@ -1,0 +1,69 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "Lakshmi Menon (CFO) emailed Rahul Verma about a discretionary spend freeze preventing a 36 L upfront payment. Rahul proposed starting the contract on July 1 with quarterly billing of 9 L per quarter and a free POC until then, keeping the annual price unchanged. Lakshmi accepted the proposal and asked for an order form dated July 1. The deal moves forward with the contract start date set, while the budget freeze remains a timing constraint.",
+  "objections": [
+    {
+      "text": "I can't sign thirty-six lakh upfront this quarter.",
+      "category": "price",
+      "raised_by": "Lakshmi Menon (CFO)",
+      "severity": "medium",
+      "resolved": true,
+      "how_handled": "Offered quarterly billing of 9L per quarter and free POC, keeping annual price unchanged"
+    }
+  ],
+  "competitors": [],
+  "stakeholders": [
+    {
+      "name": "Lakshmi Menon",
+      "role": "CFO",
+      "stance": "champion",
+      "concerns": [
+        "budget freeze",
+        "cannot sign 36L upfront"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Karthik Subramanian",
+      "role": "CTO",
+      "stance": "champion",
+      "concerns": [],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [
+    {
+      "amount": 900000.0,
+      "currency": "INR",
+      "stated_by": "us",
+      "note": "quarterly billing (₹9L per quarter)"
+    },
+    {
+      "amount": 3600000.0,
+      "currency": "INR",
+      "stated_by": "us",
+      "note": "annual price unchanged (ARR ₹36L)"
+    }
+  ],
+  "commitments": [
+    {
+      "owner": "us",
+      "who": "Rahul Verma",
+      "what": "Send order form dated July 1",
+      "due_date": "2026-07-01"
+    }
+  ],
+  "next_steps": [
+    "Send order form dated July 1"
+  ],
+  "buying_signals": [
+    "CFO agreed to quarterly billing and free POC",
+    "CTO Karthik is keen on the solution"
+  ],
+  "risk_signals": [
+    "Discretionary spend freeze until Q3 (July) may delay signing"
+  ],
+  "sentiment": "positive",
+  "confidence": "medium"
+}

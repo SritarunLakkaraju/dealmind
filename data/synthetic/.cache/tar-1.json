@@ -1,0 +1,77 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "The discovery call on 2026-08-18 included Aditya Reddy (VP Engineering) and Rahul (AE). Aditya highlighted frequent reconciliation failures, RBI inspection pressure, and a CEO mandate to fix the issue before the December audit. He mentioned Stratify as a cheaper competitor and noted that the CFO and CISO must approve any vendor. Rahul proposed bringing the CFO into the conversation within two weeks and promised to provide pricing numbers, moving the deal forward while price concerns remain unresolved.",
+  "objections": [
+    {
+      "text": "Stratify is cheaper; we are price‑disciplined.",
+      "category": "price",
+      "raised_by": "Aditya Reddy (VP Engineering)",
+      "severity": "medium",
+      "resolved": false,
+      "how_handled": "Rahul suggested bringing CFO and numbers to address price concerns."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Stratify",
+      "context": "Aditya mentioned Stratify reached out and is cheaper.",
+      "their_claimed_price": null
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "Aditya Reddy",
+      "role": "VP Engineering",
+      "stance": "champion",
+      "concerns": [
+        "budget discipline",
+        "need for reliable solution"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Priya Menon",
+      "role": "CFO",
+      "stance": "neutral",
+      "concerns": [
+        "price discipline"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Kavya Srinivasan",
+      "role": "CISO",
+      "stance": "neutral",
+      "concerns": [
+        "vendor approval for transaction data"
+      ],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [],
+  "commitments": [
+    {
+      "owner": "us",
+      "who": "Rahul (AE)",
+      "what": "Schedule meeting with Priya Menon and provide pricing numbers",
+      "due_date": "2026-09-01"
+    }
+  ],
+  "next_steps": [
+    "Schedule meeting with Priya Menon within two weeks",
+    "Provide pricing numbers to Priya"
+  ],
+  "buying_signals": [
+    "High transaction volume (40 lakh UPI per day)",
+    "Regulatory pressure from RBI inspection",
+    "CEO mandate to fix before December audit"
+  ],
+  "risk_signals": [
+    "Price sensitivity; competitor Stratify cheaper",
+    "Need CISO approval",
+    "Budget held by CFO"
+  ],
+  "sentiment": "mixed",
+  "confidence": "medium"
+}

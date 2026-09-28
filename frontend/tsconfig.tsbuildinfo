@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/components/actions.tsx","./src/components/briefpanel.tsx","./src/components/citation.tsx","./src/components/dealwidgets.tsx","./src/components/layout.tsx","./src/components/ui.tsx","./src/lib/api.ts","./src/lib/format.ts","./src/lib/markdown.tsx","./src/pages/dealroom.tsx","./src/pages/pipeline.tsx","./src/pages/playbook.tsx"],"version":"5.9.3"}

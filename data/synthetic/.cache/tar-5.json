@@ -1,0 +1,95 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "Priya Menon (CFO) emailed Rahul Verma, cc’ing Imran Qureshi (Procurement) and Aditya Reddy (VP Engineering), requesting the best price before their call on 30 September. She noted Stratify’s final offer of ₹31 L for year one and highlighted that Kavya Srinivasan (CISO) has not yet received the promised SOC2 report, risking a slip to the November cycle. The email also confirmed Imran will join the upcoming discussion to negotiate terms. The price request moves forward, while the missing SOC2 report creates a security‑related obstacle.",
+  "objections": [
+    {
+      "text": "Kavya tells me she still hasn't received your SOC2 report, and if security can't review in time this slips to the November cycle.",
+      "category": "security",
+      "raised_by": "Priya Menon (CFO)",
+      "severity": "high",
+      "resolved": false,
+      "how_handled": null
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Stratify",
+      "context": "mentioned as primary competitor with a final offer of ₹31L for year one",
+      "their_claimed_price": "₹31L"
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "Priya Menon",
+      "role": "CFO",
+      "stance": "champion",
+      "concerns": [
+        "price competitiveness"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Imran Qureshi",
+      "role": "Procurement Lead",
+      "stance": "supporter",
+      "concerns": [
+        "terms negotiation"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Aditya Reddy",
+      "role": "VP Engineering",
+      "stance": "neutral",
+      "concerns": [],
+      "new_to_deal": false
+    },
+    {
+      "name": "Kavya Srinivasan",
+      "role": "CISO",
+      "stance": "skeptic",
+      "concerns": [
+        "missing SOC2 report"
+      ],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [
+    {
+      "amount": 3100000.0,
+      "currency": "INR",
+      "stated_by": "them",
+      "note": "Stratify final offer for year one"
+    }
+  ],
+  "commitments": [
+    {
+      "owner": "them",
+      "who": "Imran Qureshi",
+      "what": "join call on 30 Sep to discuss terms",
+      "due_date": "2026-09-30"
+    },
+    {
+      "owner": "us",
+      "who": "Rahul Verma",
+      "what": "send SOC2 report",
+      "due_date": null
+    }
+  ],
+  "next_steps": [
+    "Provide best price for the 30 Sep call",
+    "Send SOC2 report to Kavya before 25 Sep"
+  ],
+  "buying_signals": [
+    "CFO requesting best price",
+    "Competitor price disclosed",
+    "Procurement will join discussion"
+  ],
+  "risk_signals": [
+    "SOC2 report not delivered, may delay decision to November",
+    "Security review timeline risk"
+  ],
+  "sentiment": "mixed",
+  "confidence": "medium"
+}

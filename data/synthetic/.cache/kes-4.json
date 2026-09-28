@@ -1,0 +1,76 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "The security review call included David Thomas (CISO), Sneha (Sales Engineer) and Arjun Nair (VP Engineering). David raised two security questions about PHI leaving India and metadata‑only mode, which Sneha answered satisfactorily. David confirmed the security is cleared and will inform CFO Neha Kapoor, and Arjun expressed readiness to start a pilot on the claims pipeline. The conversation moved the deal forward with security clearance and a pilot plan, with no major objections remaining.",
+  "objections": [
+    {
+      "text": "does any PHI leave India, and can we restrict your agent to metadata only?",
+      "category": "security",
+      "raised_by": "David Thomas (CISO)",
+      "severity": "medium",
+      "resolved": true,
+      "how_handled": "Sneha explained that nothing leaves ap-south-1 and that metadata‑only mode reads only schemas, row counts and freshness, never values."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Stratify",
+      "context": "Compared SOC2 compliance; Stratify only has SOC2 Type I and Type II is in progress",
+      "their_claimed_price": null
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "David Thomas",
+      "role": "CISO",
+      "stance": "champion",
+      "concerns": [
+        "PHI data location",
+        "metadata‑only mode"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Arjun Nair",
+      "role": "VP Engineering",
+      "stance": "supporter",
+      "concerns": [],
+      "new_to_deal": false
+    },
+    {
+      "name": "Neha Kapoor",
+      "role": "CFO",
+      "stance": "neutral",
+      "concerns": [],
+      "new_to_deal": false
+    },
+    {
+      "name": "Sameer Joshi",
+      "role": "Procurement Manager",
+      "stance": "neutral",
+      "concerns": [],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [],
+  "commitments": [
+    {
+      "owner": "them",
+      "who": "David Thomas",
+      "what": "inform Neha Kapoor that security is cleared",
+      "due_date": null
+    }
+  ],
+  "next_steps": [
+    "Start pilot on the claims pipeline",
+    "David to inform Neha Kapoor that security is cleared"
+  ],
+  "buying_signals": [
+    "CISO cleared security quickly",
+    "Preparedness appreciated by prospect",
+    "Agreement to start pilot"
+  ],
+  "risk_signals": [],
+  "sentiment": "positive",
+  "confidence": "medium"
+}

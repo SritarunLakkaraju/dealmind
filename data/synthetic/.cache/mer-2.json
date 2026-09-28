@@ -1,0 +1,108 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "The pricing call on 2026-03-17 included CFO Vikram Desai, VP Engineering Anjali Rao, CISO Farhan Sheikh, Head of Procurement Meera Kulkarni and AE Rahul. Vikram challenged the ₹42 L proposal versus Stratify’s ₹30 L quote, prompting Rahul to offer a 20% discount to about ₹33.6 L. Anjali highlighted product strengths and Sneha promised reconciliation monitors within a week. Rahul committed to send the SOC2 Type II report by 24 Mar and to email the revised quote to Meera the same day.",
+  "objections": [
+    {
+      "text": "Your proposal says forty-two lakh a year. Stratify quoted us thirty. Why is this worth twelve lakh more?",
+      "category": "price",
+      "raised_by": "Vikram Desai (CFO)",
+      "severity": "high",
+      "resolved": false,
+      "how_handled": "Offered 20% discount to 33.6 lakh"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Stratify",
+      "context": "CFO mentioned Stratify price and will show our number to them",
+      "their_claimed_price": "30"
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "Vikram Desai",
+      "role": "CFO",
+      "stance": "supporter",
+      "concerns": [
+        "price difference vs Stratify"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Anjali Rao",
+      "role": "VP Engineering",
+      "stance": "champion",
+      "concerns": [
+        "product functionality"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Farhan Sheikh",
+      "role": "CISO",
+      "stance": "neutral",
+      "concerns": [
+        "security/compliance documentation"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Meera Kulkarni",
+      "role": "Head of Procurement",
+      "stance": "neutral",
+      "concerns": [
+        "revised pricing"
+      ],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [
+    {
+      "amount": 4200000.0,
+      "currency": "INR",
+      "stated_by": "us",
+      "note": "proposal price"
+    },
+    {
+      "amount": 3360000.0,
+      "currency": "INR",
+      "stated_by": "us",
+      "note": "20% discount offered"
+    },
+    {
+      "amount": 3000000.0,
+      "currency": "INR",
+      "stated_by": "them",
+      "note": "Stratify quoted"
+    }
+  ],
+  "commitments": [
+    {
+      "owner": "us",
+      "who": "Rahul",
+      "what": "Send SOC2 Type II report to Farhan",
+      "due_date": "2026-03-24"
+    },
+    {
+      "owner": "us",
+      "who": "Rahul",
+      "what": "Send revised quote to Meera",
+      "due_date": "2026-03-17"
+    }
+  ],
+  "next_steps": [
+    "Send SOC2 Type II report to Farhan by 2026-03-24",
+    "Email revised quote to Meera today"
+  ],
+  "buying_signals": [
+    "Positive reaction to lineage view and root‑cause feature",
+    "Interest in quick implementation of reconciliation monitors (about a week)"
+  ],
+  "risk_signals": [
+    "Price sensitivity compared to Stratify",
+    "Potential competitor comparison as CFO will show our number to Stratify"
+  ],
+  "sentiment": "mixed",
+  "confidence": "medium"
+}

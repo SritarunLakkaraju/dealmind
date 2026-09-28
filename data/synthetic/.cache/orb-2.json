@@ -1,0 +1,71 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "The call included Karthik Subramanian (CTO), Rahul (AE), Sneha (SE) and referenced Rohan Mehta (Head of Data). Karthik raised concerns about Northwind being a startup versus the enterprise‑grade LensIQ and the ability to handle two billion events per day. Rahul countered with a reference call to a large e‑commerce customer and a two‑week proof‑of‑concept, while Sneha explained the read‑only Kafka integration. The prospect agreed to receive a GPS ingestion pipeline and to set up the reference call, moving the deal forward despite lingering skepticism.",
+  "objections": [
+    {
+      "text": "LensIQ is enterprise-grade. You're a startup. Why would I bet our SLA platform on you at two billion events a day?",
+      "category": "technical_fit",
+      "raised_by": "Karthik Subramanian (CTO)",
+      "severity": "high",
+      "resolved": false,
+      "how_handled": "Offered reference call with large e‑commerce customer and a two‑week proof of concept to demonstrate performance"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "LensIQ",
+      "context": "Karthik compared LensIQ as an enterprise‑grade competitor, noting its longer onboarding timeline",
+      "their_claimed_price": null
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "Karthik Subramanian",
+      "role": "CTO",
+      "stance": "skeptic",
+      "concerns": [
+        "startup reliability",
+        "SLA risk",
+        "handling two billion events"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Rohan Mehta",
+      "role": "Head of Data",
+      "stance": "supporter",
+      "concerns": [],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [],
+  "commitments": [
+    {
+      "owner": "us",
+      "who": "Rahul (AE)",
+      "what": "Arrange reference call with platform lead of large e‑commerce marketplace",
+      "due_date": null
+    },
+    {
+      "owner": "us",
+      "who": "Sneha (SE) / implementation team",
+      "what": "Set up GPS ingestion pipeline for two‑week proof of concept",
+      "due_date": null
+    }
+  ],
+  "next_steps": [
+    "Provide GPS ingestion pipeline to Rohan",
+    "Arrange reference call with large e‑commerce marketplace platform lead"
+  ],
+  "buying_signals": [
+    "Interest in two‑week proof of concept",
+    "Willingness to compare onboarding timelines with LensIQ"
+  ],
+  "risk_signals": [
+    "Concern about startup’s ability to handle two billion events",
+    "Skepticism due to lack of enterprise pedigree"
+  ],
+  "sentiment": "mixed",
+  "confidence": "medium"
+}

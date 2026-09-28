@@ -1,0 +1,78 @@
+{
+  "partial": false,
+  "error": null,
+  "summary": "The call on 2026-04-28 was between Northwind AE Rahul and VP Engineering Anjali Rao. Anjali informed that Meridian Payments has decided to go with Stratify. She cited two reasons: pricing volatility that eroded trust with CFO Vikram Desai, and a delayed SOC2 delivery that upset CISO Farhan Sheikh. Rahul asked if anything could reopen the discussion, but Anjali said not this year, leaving the deal at risk.",
+  "objections": [
+    {
+      "text": "Pricing kept moving — once it dropped twenty percent on day one, he stopped believing the list price meant anything.",
+      "category": "price",
+      "raised_by": "Vikram Desai (CFO)",
+      "severity": "high",
+      "resolved": false,
+      "how_handled": null
+    },
+    {
+      "text": "The security review slipped a whole cycle because the SOC2 came three weeks late, indicating Northwind didn't treat security as a priority.",
+      "category": "security",
+      "raised_by": "Farhan Sheikh (CISO)",
+      "severity": "high",
+      "resolved": false,
+      "how_handled": null
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Stratify",
+      "context": "Chosen by prospect; cited for consistent pricing and faster SOC2 Type I documentation turnaround",
+      "their_claimed_price": null
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "Anjali Rao",
+      "role": "VP Engineering",
+      "stance": "blocker",
+      "concerns": [
+        "pricing inconsistency",
+        "security review delay"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Vikram Desai",
+      "role": "CFO",
+      "stance": "blocker",
+      "concerns": [
+        "pricing inconsistency"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Farhan Sheikh",
+      "role": "CISO",
+      "stance": "blocker",
+      "concerns": [
+        "security review delay"
+      ],
+      "new_to_deal": false
+    },
+    {
+      "name": "Meera Kulkarni",
+      "role": "Head of Procurement",
+      "stance": "neutral",
+      "concerns": [],
+      "new_to_deal": false
+    }
+  ],
+  "pricing": [],
+  "commitments": [],
+  "next_steps": [],
+  "buying_signals": [],
+  "risk_signals": [
+    "Decision moving to competitor Stratify",
+    "Pricing volatility eroded trust",
+    "Security review delay impacted perception"
+  ],
+  "sentiment": "negative",
+  "confidence": "medium"
+}
